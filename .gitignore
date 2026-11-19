@@ -1,0 +1,6 @@
+_to_delete/
+node_modules/
+.agents/
+*.lock
+.claude/skills/
+*.pdf
